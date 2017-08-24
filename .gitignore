@@ -12,3 +12,4 @@ logfile
 .DS*
 django_rest_debug_toolbar/__pycache__/
 templates/
+.idea/workspace.xml
